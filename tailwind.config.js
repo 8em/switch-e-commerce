@@ -10,8 +10,16 @@ export default {
       fontFamily: {
         'eUkraine-medium': ['eUkraine-medium', 'sans-serif'],
         'eUkraine-regular': ['eUkraine-regular', 'sans-serif']
-      }
+      },
+      backgroundImage: {
+        'hero-banner-img1': "url('../public/images/banner-image.jpg')",
+      },
+      maxHeight: {
+        '800': '800px',
+      },
+
     }
   },
+
   plugins: []
 }
