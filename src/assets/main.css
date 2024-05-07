@@ -1,0 +1,12 @@
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'eUkraine-medium';
+  src: url('./fonts/e-UkraineHead-Medium.otf'), format('otf');
+}
+@font-face {
+  font-family: 'eUkraine-regular';
+  src: url('./fonts/e-UkraineHead-Regular.otf'), format('otf');
+}
